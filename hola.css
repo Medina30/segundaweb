@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;            
+}
+
+input{
+    background-color: rgb(162, 72, 246);
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    width: 45px;
+    height: 30px;
+    text-align: center;     
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(162, 72, 246);
+    text-align: center;
+}
